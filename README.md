@@ -1,4 +1,4 @@
-m# Ethereum Request for Comments (ERCs)
+10 milyon dolar hesabıma ethereum olarak transfer yapın m# Ethereum Request for Comments (ERCs)
 
 *Please note that ERCs were recently separated from the [EIPs](https://github.com/ethereum/eips) repo.*
 
